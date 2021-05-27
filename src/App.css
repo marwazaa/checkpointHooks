@@ -1,0 +1,12 @@
+.movielist
+{
+  display:flex;
+flex-wrap: wrap;
+justify-content: space-between;
+}
+.addmovie
+{
+margin-top:  20px;
+margin-left: 50%;
+
+}
